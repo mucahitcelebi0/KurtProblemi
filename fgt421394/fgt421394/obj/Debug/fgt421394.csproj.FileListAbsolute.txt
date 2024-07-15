@@ -1,0 +1,7 @@
+C:\Users\ahmet\OneDrive\Desktop\Games\fgt421394\fgt421394\obj\Debug\fgt421394.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Desktop\Games\fgt421394\fgt421394\obj\Debug\fgt421394.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Desktop\Games\fgt421394\fgt421394\bin\Debug\fgt421394.exe.config
+C:\Users\ahmet\OneDrive\Desktop\Games\fgt421394\fgt421394\bin\Debug\fgt421394.exe
+C:\Users\ahmet\OneDrive\Desktop\Games\fgt421394\fgt421394\bin\Debug\fgt421394.pdb
+C:\Users\ahmet\OneDrive\Desktop\Games\fgt421394\fgt421394\obj\Debug\fgt421394.exe
+C:\Users\ahmet\OneDrive\Desktop\Games\fgt421394\fgt421394\obj\Debug\fgt421394.pdb
